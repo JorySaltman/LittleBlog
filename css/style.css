@@ -1116,6 +1116,11 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
+
+.blog-header{
+  padding-top: 2rem;
+}
+
 @media screen and (max-width: 768px) {
   .fh5co-nav-toggle {
     opacity: 1;
